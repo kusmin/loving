@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://kusmin.github.io/loving/posts/my-first-post/</loc>
-    <lastmod>2022-06-09T06:18:20-03:00</lastmod>
-  </url><url>
-    <loc>https://kusmin.github.io/loving/</loc>
-    <lastmod>2022-06-09T06:18:20-03:00</lastmod>
-  </url><url>
-    <loc>https://kusmin.github.io/loving/posts/</loc>
-    <lastmod>2022-06-09T06:18:20-03:00</lastmod>
-  </url><url>
-    <loc>https://kusmin.github.io/loving/categories/</loc>
-  </url><url>
-    <loc>https://kusmin.github.io/loving/tags/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>http://darling.blog.br/pt/sitemap.xml</loc>
+    
+      <lastmod>2022-06-09T08:07:10-03:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>http://darling.blog.br/en/sitemap.xml</loc>
+    
+  </sitemap>
+  
+</sitemapindex>
