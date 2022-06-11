@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Novo Site</title>
-    <link>http://darling.blog.br/pt/</link>
-    <description>Recent content on Novo Site</description>
+    <title>namoro on Novo Site</title>
+    <link>http://darling.blog.br/pt/tags/namoro/</link>
+    <description>Recent content in namoro on Novo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>Renan Dev</copyright>
-    <lastBuildDate>Thu, 09 Jun 2022 11:07:10 +0000</lastBuildDate><atom:link href="http://darling.blog.br/pt/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Jun 2022 11:07:10 +0000</lastBuildDate><atom:link href="http://darling.blog.br/pt/tags/namoro/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dia dos namorados</title>
       <link>http://darling.blog.br/pt/posts/my-first-post-copy/</link>
@@ -15,15 +15,6 @@
       
       <guid>http://darling.blog.br/pt/posts/my-first-post-copy/</guid>
       <description>É amor, nosso primeiro dia dos namorados juntos, nós conhecemos a pouco mais de um ano, mas parece que te conheço a bem mais tempo. É estranho, assustador e maravilhoso ao mesmo tempo. Com você soube como era me sentir cuidado e amado, com o privilégio de ganhar começarmos tudo isso com amizade e companheirismo, antes de ser meu amorzinho, é minha melhor amiga com quem sempre posso contar. Você trouxe clareza para a minha vida, deixou ela muito mais colorida e vibrante, com você sinto que o futuro é muito mais interessante e vibrante.</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>http://darling.blog.br/pt/posts/my-first-post/</link>
-      <pubDate>Thu, 09 Jun 2022 08:07:10 -0300</pubDate>
-      
-      <guid>http://darling.blog.br/pt/posts/my-first-post/</guid>
-      <description></description>
     </item>
     
   </channel>
