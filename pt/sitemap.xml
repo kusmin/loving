@@ -2,8 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://darling.blog.br/pt/tags/amor/</loc>
+    <lastmod>2022-06-27T03:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://darling.blog.br/pt/</loc>
-    <lastmod>2022-06-09T11:07:10+00:00</lastmod>
+    <lastmod>2022-06-27T03:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,23 +18,23 @@
                 href="http://darling.blog.br/pt/"
                 />
   </url><url>
-    <loc>http://darling.blog.br/pt/posts/dia-dos-namorados/</loc>
-    <lastmod>2022-06-09T11:07:10+00:00</lastmod>
-  </url><url>
-    <loc>http://darling.blog.br/pt/tags/dia-dos-namorados/</loc>
-    <lastmod>2022-06-09T11:07:10+00:00</lastmod>
+    <loc>http://darling.blog.br/pt/posts/meu-amor-esta-sempre-comigo/</loc>
+    <lastmod>2022-06-27T03:00:00+00:00</lastmod>
   </url><url>
     <loc>http://darling.blog.br/pt/tags/namoro/</loc>
-    <lastmod>2022-06-09T11:07:10+00:00</lastmod>
+    <lastmod>2022-06-27T03:00:00+00:00</lastmod>
   </url><url>
     <loc>http://darling.blog.br/pt/posts/</loc>
-    <lastmod>2022-06-09T11:07:10+00:00</lastmod>
+    <lastmod>2022-06-27T03:00:00+00:00</lastmod>
   </url><url>
     <loc>http://darling.blog.br/pt/tags/relacionamento/</loc>
-    <lastmod>2022-06-09T11:07:10+00:00</lastmod>
+    <lastmod>2022-06-27T03:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://darling.blog.br/pt/tags/saudade/</loc>
+    <lastmod>2022-06-27T03:00:00+00:00</lastmod>
   </url><url>
     <loc>http://darling.blog.br/pt/tags/</loc>
-    <lastmod>2022-06-09T11:07:10+00:00</lastmod>
+    <lastmod>2022-06-27T03:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -42,6 +45,12 @@
                 hreflang="pt"
                 href="http://darling.blog.br/pt/tags/"
                 />
+  </url><url>
+    <loc>http://darling.blog.br/pt/posts/dia-dos-namorados/</loc>
+    <lastmod>2022-06-09T11:07:10+00:00</lastmod>
+  </url><url>
+    <loc>http://darling.blog.br/pt/tags/dia-dos-namorados/</loc>
+    <lastmod>2022-06-09T11:07:10+00:00</lastmod>
   </url><url>
     <loc>http://darling.blog.br/pt/categories/</loc>
     <xhtml:link
